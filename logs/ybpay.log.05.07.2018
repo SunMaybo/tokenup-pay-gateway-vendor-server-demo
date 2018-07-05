@@ -1,0 +1,14 @@
+2018-07-05 16:09:08 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:09:25 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:14:01 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:17:51 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:20:10 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:20:35 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:21:27 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:23:56 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:24:28 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:24:58 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:25:45 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:27:32 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:29:01 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success
+2018-07-05 16:31:41 [INF] [db.go:42] [github.com/SunMaybo/go-jewel/context.(*Db).Open] db connection success

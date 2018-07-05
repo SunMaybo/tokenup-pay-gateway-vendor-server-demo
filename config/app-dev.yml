@@ -1,0 +1,4 @@
+jewel:
+   port: 8597
+   log: ./config/log.xml
+   mysql: root:mypass@tcp(127.0.0.1:3306)/tokenup-risk-controller?charset=utf8mb4,utf8&collation=utf8mb4_unicode_ci

@@ -1,0 +1,4 @@
+jewel:
+   name: tokenup-gateway-controller
+   profiles:
+        active: uat
